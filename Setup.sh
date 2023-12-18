@@ -20,7 +20,7 @@ function github_proxy_set() {
       # git config --global url."https://hub.fastgit.xyz/".insteadOf https://github.com/
       # github_repo="ghproxy.com/https://github.com"
       # github_raw="ghproxy.com/https://raw.githubusercontent.com"
-      github_repo="githubfast.com"
+      github_repo="mirror.ghproxy.com"
       github_raw="raw.staticdn.net"
      # wget https://${github_download}/dotnetcore/FastGithub/releases/latest/download/fastgithub_linux-x64.zip -P ~ &&
       #   unzip ~/fastgithub_linux-x64.zip
