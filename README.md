@@ -45,23 +45,23 @@
 ## 一键脚本
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Tsanfer/Setup_server/main/Setup.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/kadonevir/Setup_server/main/Setup.sh)"
 ```
 
 或
 
 ```bash
-bash -c "$(wget https://raw.githubusercontent.com/Tsanfer/Setup_server/main/Setup.sh -O -)"
+bash -c "$(wget https://raw.githubusercontent.com/kadonevir/Setup_server/main/Setup.sh -O -)"
 ```
 
 ### 国内使用
 
 ```bash
-bash -c "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/Tsanfer/Setup_server/main/Setup.sh)"
+bash -c "$(curl -fsSL https://mirror.ghproxy.com/https://raw.githubusercontent.com/kadonevir/Setup_server/main/Setup.sh)"
 ```
 
 或
 
 ```bash
-bash -c "$(wget https://ghproxy.com/https://raw.githubusercontent.com/Tsanfer/Setup_server/main/Setup.sh -O -)"
+bash -c "$(wget https://mirror.ghproxy.com/https://raw.githubusercontent.com/kadonevir/Setup_server/main/Setup.sh -O -)"
 ```
